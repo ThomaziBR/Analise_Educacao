@@ -1,0 +1,59 @@
+ISO3,Countries and areas,Region,Development Regions,Total,Female,Male,Rural_Residence,Urban_Residence,Poorest_Wealth quintile,Second_Wealth quintile,Middle_Wealth quintile,Fourth_Wealth quintile,Richest_Wealth quintile,Time period,regiao,id_desenvolvimento_regiao,HDI Rank,idh_2019
+ALB,Albania,ECA,More Developed,2.0,2.0,2.0,2.0,2.0,4.0,2.0,2.0,1.0,1.0,2018.0,Europe and Central Asia,3,69,0.7950000166893005
+AGO,Angola,SSA,Least Developed,15.0,17.0,14.0,28.0,10.0,31.0,26.0,16.0,6.0,4.0,2016.0,Sub-Saharan Africa,1,148,0.5809999704360962
+ARM,Armenia,ECA,Less Developed,1.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,0.0,0.0,2016.0,Europe and Central Asia,2,81,0.7760000228881836
+BGD,Bangladesh,SA,Least Developed,13.0,8.0,18.0,13.0,12.0,19.0,15.0,11.0,11.0,7.0,2019.0,South Asia,1,133,0.6320000290870667
+BLZ,Belize,LAC,Less Developed,9.0,9.0,10.0,12.0,4.0,15.0,13.0,9.0,4.0,2.0,2016.0,Latin America and Caribbean,2,110,0.7160000205039978
+BEN,Benin,SSA,Least Developed,41.0,47.0,36.0,48.0,31.0,65.0,52.0,42.0,31.0,18.0,2018.0,Sub-Saharan Africa,1,158,0.5450000166893005
+BWA,Botswana,SSA,Less Developed,4.0,5.0,4.0,7.0,3.0,31.0,26.0,21.0,17.0,9.0,2017.0,Sub-Saharan Africa,2,100,0.7350000143051147
+BRA,Brazil,LAC,Less Developed,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2019.0,Latin America and Caribbean,2,84,0.7649999856948853
+BDI,Burundi,SSA,Least Developed,29.0,28.0,31.0,31.0,20.0,49.0,35.0,26.0,20.0,22.0,2017.0,Sub-Saharan Africa,1,185,0.43299999833106995
+CMR,Cameroon,SSA,Less Developed,19.0,22.0,16.0,28.0,10.0,40.0,27.0,16.0,10.0,5.0,2018.0,Sub-Saharan Africa,2,153,0.5630000233650208
+CHL,Chile,LAC,Less Developed,1.0,1.0,0.0,0.0,1.0,14.0,7.0,4.0,3.0,3.0,2017.0,Latin America and Caribbean,2,43,0.8510000109672546
+CRI,Costa Rica,LAC,Less Developed,3.0,3.0,2.0,3.0,2.0,4.0,2.0,3.0,3.0,0.0,2018.0,Latin America and Caribbean,2,62,0.8100000023841858
+CIV,Côte d'Ivoire,SSA,Less Developed,33.0,38.0,27.0,40.0,26.0,50.0,37.0,33.0,25.0,22.0,2016.0,Sub-Saharan Africa,2,162,0.5379999876022339
+ECU,Ecuador,LAC,Less Developed,6.0,5.0,7.0,8.0,5.0,14.0,7.0,4.0,3.0,3.0,2019.0,Latin America and Caribbean,2,86,0.7590000033378601
+ETH,Ethiopia,SSA,Least Developed,31.0,31.0,30.0,33.0,22.0,48.0,40.0,28.0,24.0,20.0,2016.0,Sub-Saharan Africa,1,173,0.48500001430511475
+GEO,Georgia,ECA,Less Developed,1.0,1.0,2.0,1.0,1.0,2.0,0.0,1.0,2.0,0.0,2018.0,Europe and Central Asia,2,61,0.8119999766349792
+GHA,Ghana,SSA,Less Developed,7.0,6.0,8.0,8.0,6.0,15.0,6.0,6.0,4.0,3.0,2018.0,Sub-Saharan Africa,2,138,0.6110000014305115
+GIN,Guinea,SSA,Least Developed,46.0,54.0,38.0,62.0,26.0,72.0,59.0,57.0,39.0,20.0,2018.0,Sub-Saharan Africa,1,178,0.47699999809265137
+GNB,Guinea-Bissau,SSA,Least Developed,23.0,26.0,20.0,27.0,18.0,28.0,26.0,27.0,20.0,16.0,2019.0,Sub-Saharan Africa,1,175,0.47999998927116394
+HTI,Haiti,LAC,Least Developed,6.0,5.0,7.0,8.0,3.0,14.0,7.0,3.0,3.0,3.0,2017.0,Latin America and Caribbean,1,170,0.5099999904632568
+HND,Honduras,LAC,Less Developed,26.0,22.0,30.0,35.0,15.0,37.0,29.0,23.0,13.0,16.0,2018.0,Latin America and Caribbean,2,132,0.6340000033378601
+IND,India,SA,Less Developed,7.0,8.0,7.0,8.0,6.0,15.0,7.0,5.0,3.0,1.0,2016.0,South Asia,2,131,0.6449999809265137
+IDN,Indonesia,EAP,Less Developed,7.0,6.0,8.0,9.0,5.0,11.0,8.0,6.0,5.0,3.0,2018.0,East Asia and Pacific,2,107,0.7179999947547913
+IRQ,Iraq,MENA,Less Developed,21.0,28.0,15.0,30.0,17.0,36.0,24.0,19.0,13.0,11.0,2018.0,Middle East and North Africa,2,123,0.6740000247955322
+JOR,Jordan,MENA,Less Developed,5.0,5.0,6.0,5.0,5.0,13.0,6.0,3.0,2.0,2.0,2018.0,Middle East and North Africa,2,102,0.7289999723434448
+KIR,Kiribati,EAP,Least Developed,10.0,5.0,15.0,11.0,9.0,16.0,11.0,11.0,9.0,3.0,2019.0,East Asia and Pacific,1,134,0.6299999952316284
+KGZ,Kyrgyzstan,ECA,Less Developed,1.0,1.0,2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,2018.0,Europe and Central Asia,2,120,0.6970000267028809
+LAO,Lao People's Democratic Republic,EAP,Least Developed,20.0,22.0,18.0,22.0,15.0,32.0,20.0,18.0,12.0,13.0,2017.0,East Asia and Pacific,1,137,0.6129999756813049
+LSO,Lesotho,SSA,Least Developed,14.0,9.0,19.0,18.0,7.0,23.0,20.0,13.0,6.0,5.0,2018.0,Sub-Saharan Africa,1,165,0.5270000100135803
+MDG,Madagascar,SSA,Least Developed,36.0,33.0,38.0,40.0,21.0,61.0,47.0,32.0,24.0,12.0,2018.0,Sub-Saharan Africa,1,164,0.527999997138977
+MWI,Malawi,SSA,Least Developed,8.0,8.0,8.0,8.0,5.0,14.0,9.0,8.0,6.0,4.0,2016.0,Sub-Saharan Africa,1,174,0.4830000102519989
+MDV,Maldives,SA,Less Developed,4.0,4.0,4.0,6.0,0.0,6.0,6.0,4.0,2.0,0.0,2017.0,South Asia,2,95,0.7400000095367432
+MEX,Mexico,LAC,Less Developed,6.0,5.0,7.0,9.0,5.0,14.0,7.0,4.0,3.0,3.0,2018.0,Latin America and Caribbean,2,74,0.7789999842643738
+MNG,Mongolia,EAP,Less Developed,4.0,3.0,5.0,4.0,4.0,6.0,3.0,5.0,3.0,5.0,2018.0,East Asia and Pacific,2,99,0.7369999885559082
+MNE,Montenegro,ECA,More Developed,1.0,2.0,1.0,3.0,0.0,6.0,0.0,0.0,0.0,0.0,2018.0,Europe and Central Asia,3,48,0.8289999961853027
+MMR,Myanmar,EAP,Least Developed,17.0,17.0,16.0,19.0,10.0,30.0,18.0,15.0,9.0,6.0,2016.0,East Asia and Pacific,1,147,0.5830000042915344
+NPL,Nepal,SA,Least Developed,4.0,4.0,4.0,5.0,4.0,6.0,7.0,4.0,2.0,1.0,2019.0,South Asia,1,142,0.6019999980926514
+NGA,Nigeria,SSA,Less Developed,27.0,29.0,25.0,39.0,11.0,68.0,34.0,17.0,7.0,5.0,2018.0,Sub-Saharan Africa,2,161,0.5389999747276306
+MKD,North Macedonia,ECA,More Developed,2.0,2.0,1.0,0.0,3.0,4.0,3.0,0.0,0.0,0.0,2019.0,Europe and Central Asia,3,82,0.7739999890327454
+PAK,Pakistan,SA,Less Developed,27.0,32.0,22.0,31.0,18.0,55.0,31.0,19.0,15.0,7.0,2018.0,South Asia,2,154,0.5569999814033508
+PRY,Paraguay,LAC,Less Developed,8.0,7.0,9.0,11.0,5.0,13.0,7.0,6.0,3.0,3.0,2017.0,Latin America and Caribbean,2,103,0.7279999852180481
+PHL,Philippines,EAP,Less Developed,4.0,3.0,5.0,4.0,4.0,9.0,5.0,2.0,2.0,2.0,2017.0,East Asia and Pacific,2,107,0.7179999947547913
+ROU,Romania,ECA,More Developed,10.0,10.0,10.0,1.0,1.0,3.0,1.0,1.5,0.5,0.0,2016.0,Europe and Central Asia,3,49,0.828000009059906
+SEN,Senegal,SSA,Least Developed,39.0,36.0,42.0,50.0,25.0,57.0,47.0,39.0,34.0,17.0,2019.0,Sub-Saharan Africa,1,168,0.5120000243186951
+SLE,Sierra Leone,SSA,Least Developed,19.0,18.0,20.0,29.0,8.0,39.0,29.0,17.0,10.0,7.0,2017.0,Sub-Saharan Africa,1,182,0.4519999921321869
+ZAF,South Africa,SSA,Less Developed,5.0,4.0,6.0,5.0,6.0,9.0,6.0,3.0,4.0,2.0,2016.0,Sub-Saharan Africa,2,114,0.7089999914169312
+LKA,Sri Lanka,SA,Less Developed,1.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,2016.0,South Asia,2,72,0.7820000052452087
+SUR,Suriname,LAC,Less Developed,7.0,6.0,8.0,11.0,5.0,14.0,7.0,4.0,2.0,3.0,2018.0,Latin America and Caribbean,2,97,0.7379999756813049
+TJK,Tajikistan,ECA,Less Developed,3.0,4.0,1.0,3.0,2.0,4.0,3.0,2.0,2.0,2.0,2017.0,Europe and Central Asia,2,125,0.6679999828338623
+THA,Thailand,EAP,Less Developed,3.0,2.0,5.0,4.0,3.0,7.0,3.0,5.0,1.0,1.0,2019.0,East Asia and Pacific,2,79,0.7770000100135803
+TLS,Timor-Leste,EAP,Least Developed,9.0,8.0,10.0,10.0,5.0,16.0,11.0,8.0,5.0,3.0,2016.0,East Asia and Pacific,1,141,0.6060000061988831
+TGO,Togo,SSA,Least Developed,12.0,14.0,10.0,14.0,10.0,20.0,14.0,9.0,7.0,10.0,2017.0,Sub-Saharan Africa,1,167,0.5149999856948853
+TON,Tonga,EAP,Less Developed,11.0,8.0,14.0,12.0,8.0,18.0,15.0,10.0,5.0,5.0,2019.0,East Asia and Pacific,2,104,0.7250000238418579
+TUN,Tunisia,MENA,Less Developed,7.0,7.0,7.0,12.0,5.0,14.0,9.0,5.0,4.0,3.0,2018.0,Middle East and North Africa,2,95,0.7400000095367432
+TKM,Turkmenistan,ECA,Less Developed,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2016.0,Europe and Central Asia,2,111,0.7149999737739563
+UGA,Uganda,SSA,Least Developed,23.0,23.0,22.0,23.0,24.0,29.0,22.0,21.0,19.0,25.0,2016.0,Sub-Saharan Africa,1,159,0.5440000295639038
+ZMB,Zambia,SSA,Least Developed,23.0,27.0,20.0,29.0,14.0,42.0,32.0,23.0,17.0,9.0,2018.0,Sub-Saharan Africa,1,146,0.5839999914169312
+ZWE,Zimbabwe,SSA,Less Developed,19.0,16.0,22.0,22.0,9.0,28.0,24.0,16.0,14.0,5.0,2019.0,Sub-Saharan Africa,2,150,0.5709999799728394
